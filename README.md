@@ -12,3 +12,8 @@
     - Start the application: npm run start.
 
 ## Usage 
+    Users can search for books by title, author, or keywords.
+    Search results display detailed book information including title, author, description, image, and a link to the book on Google Books.User accounts allow for saving favorite books and accessing them across sessions.Saved books include all details available in search results and can be managed (added or removed) via user profile.Utilizes IndexedDB for local data storage, ensuring users can access saved books and perform searches even without an internet connection.
+    
+## License
+![Static Badge](https://img.shields.io/badge/license-MIT-pink)
